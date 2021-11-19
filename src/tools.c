@@ -27,3 +27,4 @@ void readData(int *ptr)
 		fclose(min_data);
 	}
 }
+
